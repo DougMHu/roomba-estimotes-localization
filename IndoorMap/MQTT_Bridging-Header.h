@@ -2,7 +2,7 @@
 //  MQTT_Bridging-Header.h
 //  IndoorMap
 //
-//  Created by Surabhi Arora on 4/30/16.
+//  Created by Meha Deora on 4/30/16.
 //  Copyright © 2016 Estimote, Inc. All rights reserved.
 //
 
