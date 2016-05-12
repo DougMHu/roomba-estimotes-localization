@@ -1,0 +1,25 @@
+PODS:
+  - EstimoteIndoorSDK (2.2.0):
+    - EstimoteSDK (~> 3.8)
+  - EstimoteSDK (3.8.2)
+  - MQTTKit (0.1.0-next)
+
+DEPENDENCIES:
+  - EstimoteIndoorSDK
+  - MQTTKit (from `https://github.com/jmesnil/MQTTKit.git`)
+
+EXTERNAL SOURCES:
+  MQTTKit:
+    :git: https://github.com/jmesnil/MQTTKit.git
+
+CHECKOUT OPTIONS:
+  MQTTKit:
+    :commit: aaf4a22a67102b8860e80f2005257eb4d8169988
+    :git: https://github.com/jmesnil/MQTTKit.git
+
+SPEC CHECKSUMS:
+  EstimoteIndoorSDK: 4e0a3fc860041915341dcac0f858803f9a0f0c80
+  EstimoteSDK: 5e36b596f9f28161bff35b086d9f70282be5f513
+  MQTTKit: 513ffc31464db7adeffefac986e228fdf6cd87e5
+
+COCOAPODS: 0.39.0
